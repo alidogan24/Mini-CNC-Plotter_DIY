@@ -83,6 +83,6 @@ Bu işlemden sonra kod sorunsuz şekilde derlenecektir.
 
 | | |
 |---|---|
-| ![Assembly 1](photos/assembly1.jpg) | ![Assembly 2](photos/assembly2.jpg) |
-| ![Drawing](photos/drawing.jpg) | ![PCB 1](photos/pcb1.jpg) |
-| ![PCB 2](photos/pcb2.jpg) | |
+| ![Assembly 1](images/assembly1.jpg) | ![Assembly 2](images/assembly2.jpg) |
+| ![Drawing](images/drawing.jpg) | ![PCB 1](images/pcb1.jpg) |
+| ![PCB 2](images/pcb2.jpg) | |
