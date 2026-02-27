@@ -2,7 +2,7 @@
 
 ## 📹 Video
 
-[YouTube Video Link](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[YouTube Video Link](https://youtu.be/wrf7VYjFJH0)
 
 ---
 
